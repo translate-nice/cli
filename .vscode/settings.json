@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "autorun",
+    "commitlint",
+    "esbuild",
+    "healthcheck",
+    "lhpf",
+    "linwu",
+    "preinstall",
+    "tsup"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
